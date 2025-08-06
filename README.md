@@ -1,3 +1,3 @@
 # bookbot
 
-Bookbot is used to do statistical analysis on any given book. 
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
